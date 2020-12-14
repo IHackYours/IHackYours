@@ -70,4 +70,5 @@
 <a href="https://github.com/IHackYours/project-base"><img title="project-base" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-base&theme=vision-friendly-dark"></a>
 <a href="https://github.com/IHackYours/project-rooms"><img title="project-rooms" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-rooms&theme=vision-friendly-dark"></a>
 <a href="https://github.com/IHackYours/project-loading"><img title="project-loading" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-loading&theme=vision-friendly-dark"></a>
+<a href="https://github.com/IHackYours/project-kalkulator"><img title="project-kalkulator" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-kalkulator&theme=vision-friendly-dark"></a>
 </p>
