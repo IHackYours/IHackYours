@@ -21,17 +21,6 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=IHackYours&color=green)
 <a href="https://github.com/IHackYours/followers"><img title="Followers" src="https://img.shields.io/github/followers/IHackYours?color=blue&style=flat-square"></a>
 
-## コーディング
-
-| IHackYours       |                Coding           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Html                             |
-|       ✅       | Css                              |
-|       ✅       | JavaScript                       |
-|       ✅       | Python                           |
-|       ✅       | bash                             |
-|       ✅       | Php                              |
-
 ## My About 🗣️
 
 <details>
@@ -72,4 +61,5 @@
 <a href="https://github.com/IHackYours/project-loading"><img title="project-loading" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-loading&theme=vision-friendly-dark"></a>
 <a href="https://github.com/IHackYours/project-kalkulator"><img title="project-kalkulator" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-kalkulator&theme=vision-friendly-dark"></a>
 <a href="https://github.com/IHackYours/project-quotes"><img title="project-qoutes" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=project-qoutes&theme=vision-friendly-dark"></a>
+<a href="https://github.com/IHackYours/daftar-api"><img title="daftar-api" src="https://github-readme-stats.vercel.app/api/pin/?username=IHackYours&repo=daftar-api&theme=vision-friendly-dark"></a>
 </p>
